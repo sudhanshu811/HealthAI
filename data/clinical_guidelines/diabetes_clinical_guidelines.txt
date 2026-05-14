@@ -1,0 +1,100 @@
+COMPREHENSIVE CLINICAL GUIDELINES FOR DIABETES MANAGEMENT
+Issued by: International Diabetes Federation (IDF) and World Health Organization (WHO)
+Version: 2024 | Document Reference: CDG-2024-001
+
+=== SECTION 1: INTRODUCTION AND SCOPE ===
+These clinical guidelines provide evidence-based recommendations for the prevention, diagnosis, and comprehensive management of diabetes mellitus in adults and children. They are intended for primary care physicians, endocrinologists, nurses, pharmacists, and dietitians. The guidelines cover Type 1, Type 2, gestational diabetes, and prediabetes, aligned with evidence from landmark clinical trials.
+
+Diabetes mellitus is a chronic metabolic disorder characterized by persistent hyperglycemia from defects in insulin secretion or action. Unmanaged diabetes causes complications affecting the eyes (retinopathy), kidneys (nephropathy), nerves (neuropathy), heart (cardiovascular disease), and lower limbs (diabetic foot). The global burden is enormous: over 537 million adults live with diabetes worldwide, projected to reach 783 million by 2045. Diabetes causes approximately 6.7 million deaths annually and is a leading cause of blindness, kidney failure, heart attacks, stroke, and lower limb amputation.
+
+=== SECTION 2: CLASSIFICATION OF DIABETES ===
+Type 1 Diabetes Mellitus: Type 1 diabetes is an autoimmune condition in which the immune system destroys the insulin-producing beta cells of the pancreas, resulting in absolute insulin deficiency. It accounts for approximately 5 to 10 percent of all diabetes cases and typically presents in childhood or young adulthood. Patients with Type 1 diabetes require lifelong insulin therapy to survive. Without insulin, patients develop diabetic ketoacidosis (DKA), a life-threatening emergency. Classic symptoms include polyuria, polydipsia, polyphagia, weight loss, and fatigue.
+
+Type 2 Diabetes Mellitus: Type 2 diabetes is the most common form, accounting for approximately 90 to 95 percent of all cases. It is characterized by progressive insulin resistance combined with relative insulin deficiency. It is strongly associated with obesity, physical inactivity, unhealthy diet, family history, and age. It typically develops gradually and may remain undetected for years. Type 2 diabetes is largely preventable through lifestyle modifications.
+
+Gestational Diabetes Mellitus (GDM): Gestational diabetes is glucose intolerance first recognized during pregnancy. It affects approximately 14 percent of pregnancies globally. GDM is associated with preeclampsia, cesarean delivery, macrosomia, neonatal hypoglycemia, and perinatal mortality. Women with GDM have significantly increased lifetime risk of developing Type 2 diabetes.
+
+Prediabetes: Prediabetes refers to blood glucose levels higher than normal but not yet meeting diabetes criteria. It includes impaired fasting glucose (IFG) and impaired glucose tolerance (IGT). Intensive lifestyle intervention in prediabetes can reduce progression to Type 2 diabetes by 58 percent.
+
+=== SECTION 3: DIAGNOSTIC CRITERIA ===
+Diabetes is diagnosed using one of the following criteria, confirmed on a second occasion in the absence of symptoms:
+Fasting Plasma Glucose (FPG): Greater than or equal to 7.0 mmol/L (126 mg/dL). Fasting is defined as no caloric intake for at least 8 hours.
+2-Hour Plasma Glucose during OGTT: Greater than or equal to 11.1 mmol/L (200 mg/dL) using a 75g glucose load.
+HbA1c: Greater than or equal to 48 mmol/mol (6.5%).
+Random Plasma Glucose: Greater than or equal to 11.1 mmol/L with classic symptoms of hyperglycemia.
+
+Prediabetes criteria:
+Impaired Fasting Glucose (IFG): FPG of 6.1 to 6.9 mmol/L (110 to 125 mg/dL).
+Impaired Glucose Tolerance (IGT): 2-hour OGTT glucose of 7.8 to 11.0 mmol/L.
+HbA1c for prediabetes: 39 to 47 mmol/mol (5.7 to 6.4%).
+
+Screening recommendations: Screening is recommended for all adults aged 35 and older; overweight or obese adults (BMI 25+) with risk factors; women with history of GDM; first-degree relatives of Type 2 diabetes patients; high-risk ethnicities; patients with hypertension, dyslipidemia, or cardiovascular disease; women with PCOS. Screening interval: every 3 years for normal results; annually for prediabetes.
+
+=== SECTION 4: GLYCEMIC TARGETS ===
+HbA1c Targets: General target for most adults with Type 2 diabetes is HbA1c less than 53 mmol/mol (less than 7.0%), associated with significant reductions in microvascular complications (Grade A evidence). A target of less than 48 mmol/mol (6.5%) is appropriate for younger patients with short disease duration and low hypoglycemia risk. A less stringent target of less than 64 mmol/mol (8.0%) is acceptable for elderly patients with multiple comorbidities or limited life expectancy. Type 1 diabetes HbA1c target: less than 53 mmol/mol. Pregnancy HbA1c target: less than 48 mmol/mol.
+
+Blood Glucose Targets: Fasting (pre-meal) blood glucose: 4.4 to 7.2 mmol/L (80 to 130 mg/dL). 2-hour post-meal blood glucose: less than 10.0 mmol/L (less than 180 mg/dL).
+
+Blood Pressure Target: Blood pressure target for most adults with diabetes: less than 130/80 mmHg (Grade A). This is strongly recommended given the synergistic cardiovascular risk when hypertension coexists with diabetes.
+
+Lipid Targets: LDL Cholesterol less than 2.6 mmol/L (100 mg/dL) for most patients; less than 1.8 mmol/L (70 mg/dL) for those with established cardiovascular disease. Total Cholesterol less than 4.5 mmol/L. Triglycerides less than 1.7 mmol/L. HDL greater than 1.0 mmol/L in men, greater than 1.3 mmol/L in women.
+
+=== SECTION 5: PHARMACOLOGICAL TREATMENT TYPE 2 DIABETES ===
+First-Line Pharmacotherapy: Metformin remains the recommended first-line pharmacological agent for Type 2 diabetes in the absence of contraindications (Grade A). It reduces HbA1c by approximately 1.0 to 1.5 percentage points. Metformin works by reducing hepatic glucose production and improving peripheral insulin sensitivity. Starting dose: 500 mg once or twice daily with meals, increasing gradually to a maximum of 2000 to 2550 mg per day to minimize gastrointestinal side effects. Metformin is contraindicated in patients with eGFR less than 30 mL/min/1.73m2 due to lactic acidosis risk.
+
+Second-Line and Add-On Agents:
+GLP-1 Receptor Agonists (semaglutide, liraglutide, dulaglutide): Recommended add-on for patients with established cardiovascular disease, high cardiovascular risk, obesity, or chronic kidney disease. Semaglutide demonstrates the strongest cardiovascular outcome benefit. Reduces HbA1c by 0.8 to 1.5 percentage points and promotes significant weight loss (Grade A).
+SGLT-2 Inhibitors (empagliflozin, dapagliflozin, canagliflozin): Strongly recommended for patients with established cardiovascular disease, heart failure, or chronic kidney disease. Empagliflozin and dapagliflozin demonstrate significant reductions in cardiovascular mortality, heart failure hospitalization, and CKD progression (Grade A). These agents block renal glucose reabsorption.
+DPP-4 Inhibitors (sitagliptin, saxagliptin, vildagliptin): Weight-neutral, low hypoglycemia risk. Reduce HbA1c by 0.5 to 0.8 percentage points. Suitable for elderly patients.
+Sulfonylureas (glibenclamide, glipizide, glimepiride): Effective and inexpensive. Risk of hypoglycemia and weight gain. Avoid glibenclamide in elderly.
+Insulin: Required when oral agents are insufficient, when HbA1c exceeds 75 mmol/mol (9.0%), during acute illness, surgery, or pregnancy.
+
+Insulin Therapy: Basal insulin starting dose: 10 units at bedtime or 0.1 to 0.2 units/kg body weight. Recommended basal insulins: glargine, detemir, degludec. Basal-bolus regimen uses long-acting basal insulin plus rapid-acting bolus (lispro, aspart, glulisine) before meals. All patients on insulin should perform self-monitoring of blood glucose (SMBG).
+
+=== SECTION 6: TYPE 1 DIABETES MANAGEMENT ===
+All patients with Type 1 diabetes require insulin for survival via multiple daily injections (MDI) or insulin pump therapy (CSII). Continuous glucose monitoring (CGM) is recommended for all adults with Type 1 diabetes (Grade A). Time-in-range (TIR) target: greater than 70 percent of time between 3.9 and 10.0 mmol/L. Hybrid closed-loop systems (artificial pancreas) are recommended where accessible (Grade A). Carbohydrate counting and insulin-to-carbohydrate ratios must be taught. A common starting ratio is 1 unit of rapid-acting insulin per 10 to 15 grams of carbohydrate, adjusted individually.
+
+=== SECTION 7: LIFESTYLE MANAGEMENT ===
+Dietary Recommendations: Individualized medical nutrition therapy by a registered dietitian is recommended for all people with diabetes (Grade A). Monitoring carbohydrate intake is the most effective dietary strategy for glycemic control. Mediterranean diet and DASH diet are recommended evidence-based dietary patterns. Low-carbohydrate diets (less than 130g per day) are effective for weight loss and glycemic control. Dietary fibre intake should be at least 14 grams per 1000 kcal. Protein intake: 1.0 to 1.5 g per kg per day; reduce to 0.8 g per kg per day in nephropathy. Limit saturated fat to less than 7 percent of total energy. Alcohol: maximum 1 drink per day for women, 2 for men. Never drink on an empty stomach as alcohol can cause delayed hypoglycemia.
+
+Physical Activity Recommendations: Regular physical activity is a cornerstone of diabetes management (Grade A). Aerobic exercise: at least 150 minutes per week of moderate intensity OR 75 minutes of vigorous intensity, spread over at least 3 days per week with no more than 2 consecutive days without activity. Resistance training: at least 2 sessions per week on non-consecutive days. Interrupt prolonged sitting every 30 minutes. Patients on insulin or sulfonylureas should check blood glucose before exercise; consume 15 to 30g carbohydrate if glucose is below 5.0 mmol/L.
+
+Weight Management: Weight loss of 5 to 10 percent significantly improves glycemic control, blood pressure, and lipids (Grade A). Greater than 15 percent weight loss can produce Type 2 diabetes remission. Bariatric surgery is indicated for BMI 35 or above (or 30 or above in Asians) with inadequately controlled Type 2 diabetes; produces remission in 50 to 80 percent of patients.
+
+=== SECTION 8: MANAGEMENT OF COMPLICATIONS ===
+Diabetic Nephropathy: Annual screening with urine albumin-to-creatinine ratio (UACR) and eGFR is mandatory (Grade A). First-line: ACE inhibitor or ARB. SGLT-2 inhibitors are strongly recommended in CKD with eGFR 25 to 75 (Grade A). Finerenone adds further renoprotection in CKD with albuminuria.
+
+Diabetic Retinopathy: Annual dilated eye examination mandatory from diagnosis in Type 2 diabetes; after 5 years in Type 1 (Grade A). Anti-VEGF therapy or laser photocoagulation for significant retinopathy. Optimal glycemic and blood pressure control is the most effective prevention strategy.
+
+Diabetic Neuropathy: Annual neuropathy screening using 10-gram monofilament and vibration test. First-line treatments for painful neuropathy: duloxetine 60 to 120 mg per day, pregabalin 150 to 600 mg per day, or gabapentin 900 to 3600 mg per day.
+
+Cardiovascular Disease Prevention: All patients with diabetes and established CVD should receive: high-intensity statin, aspirin 75 to 100 mg per day, ACE inhibitor or ARB, beta-blocker if heart failure or post-MI, and a GLP-1 receptor agonist or SGLT-2 inhibitor with proven cardiovascular benefit (Grade A).
+
+Diabetic Foot Care: Annual foot examination mandatory. High-risk patients need more frequent monitoring. Educate patients in daily foot inspection, appropriate footwear, nail care, and prompt reporting of injuries.
+
+=== SECTION 9: HYPOGLYCEMIA MANAGEMENT ===
+Definition: Hypoglycemia is defined as blood glucose below 3.9 mmol/L (70 mg/dL) and is the most common acute complication of diabetes treatment. Level 1 (Alert value): glucose 3.0 to 3.9 mmol/L — requires carbohydrate intake. Level 2 (Clinically significant): glucose less than 3.0 mmol/L — requires immediate treatment. Level 3 (Severe): cognitive impairment requiring assistance from another person.
+
+The Rule of 15 for treating hypoglycemia: For conscious patients with Level 1 or Level 2 hypoglycemia, consume 15 grams of fast-acting carbohydrate such as 150 mL of fruit juice, 3 to 4 glucose tablets, or 15 grams of glucose gel. Recheck blood glucose after 15 minutes. Repeat if still below 3.9 mmol/L. Once blood glucose is normalized, consume a small snack containing complex carbohydrate and protein to prevent recurrence.
+
+Severe Hypoglycemia Treatment: Intramuscular or subcutaneous glucagon 1 mg is the standard treatment for severe hypoglycemia when oral intake is impossible. Nasal glucagon 3 mg is a newer option. In hospital settings, intravenous 50 percent dextrose 25 to 50 mL is administered for rapid correction.
+
+=== SECTION 10: DIABETES IN SPECIAL POPULATIONS ===
+Elderly Patients: HbA1c target of 58 to 64 mmol/mol (7.5 to 8.0%) for elderly with multiple comorbidities or limited life expectancy. Avoid sulfonylureas especially glibenclamide and high-dose insulin due to hypoglycemia risk. Falls risk is increased by hypoglycemia in elderly patients.
+
+Diabetes in Pregnancy: Pre-conception: optimize HbA1c to less than 48 mmol/mol; discontinue ACE inhibitors, ARBs, and statins; start folic acid 5 mg per day. During pregnancy: insulin is the preferred treatment; metformin may be used if insulin is declined. Fasting target: 3.5 to 5.0 mmol/L; 1-hour post-meal: less than 7.8 mmol/L. Gestational diabetes: OGTT at 24 to 28 weeks; medical nutrition therapy first; insulin if targets not met within 1 to 2 weeks. Postpartum OGTT at 6 to 12 weeks and annually thereafter due to high Type 2 diabetes risk.
+
+Diabetes and Surgery: Perioperative blood glucose target: 5.0 to 10.0 mmol/L. Withhold metformin 24 to 48 hours before major surgery. Withhold SGLT-2 inhibitors at least 3 days before surgery due to euglycemic DKA risk. Post-operative glucose monitoring at minimum every 4 to 6 hours.
+
+=== SECTION 11: MONITORING AND FOLLOW-UP SCHEDULE ===
+HbA1c: Every 3 months until target achieved; every 6 months when stable.
+Blood Pressure: At every clinical visit.
+Foot Examination: At least annually; more frequently for high-risk patients.
+Eye Examination: Annually — refer to ophthalmology.
+Kidney Function (eGFR and UACR): Annually.
+Lipid Profile: Annually.
+Body Weight and BMI: At every visit.
+Immunizations: Annual influenza vaccine; pneumococcal vaccine; COVID-19 vaccine; hepatitis B series for unvaccinated adults under 60.
+
+This document constitutes the current evidence-based clinical guideline for diabetes management.
+END OF DOCUMENT — CDG-2024-001

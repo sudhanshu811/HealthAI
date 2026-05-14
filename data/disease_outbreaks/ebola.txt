@@ -1,0 +1,80 @@
+# EBOLA VIRUS DISEASE: COMPREHENSIVE OUTBREAK INTELLIGENCE REPORT
+Source: World Health Organization (WHO), CDC, Médecins Sans Frontières (MSF)
+
+# Overview
+
+Ebola Virus Disease (EVD), formerly known as Ebola hemorrhagic fever, is a rare but severe and often fatal illness caused by infection with one of the Ebola virus species. Ebola viruses belong to the family Filoviridae, genus Ebolavirus. Six species of Ebolavirus have been identified: Zaire ebolavirus (the most lethal and most frequently associated with major outbreaks), Sudan ebolavirus, Taï Forest ebolavirus, Bundibugyo ebolavirus, Reston ebolavirus (which infects non-human primates and pigs but has not been shown to cause disease in humans), and Bombali ebolavirus (recently discovered in bats). The disease was first identified in 1976 and has since caused multiple outbreaks across Central and West Africa, with the 2013-2016 West Africa outbreak being by far the largest and most devastating in history.
+
+Ebola is one of the world's most feared infectious diseases due to its high case fatality rate, dramatic clinical presentation, and the fear and social disruption it causes in affected communities. However, it is important to note that Ebola is not as easily transmissible as respiratory infections like COVID-19 or influenza — it requires direct contact with the blood or body fluids of an infected person who is showing symptoms.
+
+# Outbreak History
+
+The first recorded outbreaks of Ebola Virus Disease occurred simultaneously in 1976 in two locations: Nzara in Sudan (now South Sudan) and Yambuku in the Democratic Republic of Congo (then Zaire), near the Ebola River — from which the disease takes its name. The Zaire outbreak involved 318 cases with 280 deaths (case fatality rate of 88 percent), while the Sudan outbreak involved 284 cases with 151 deaths (53 percent CFR). These initial outbreaks established the frightening lethality of the disease.
+
+Subsequent outbreaks occurred sporadically across Central Africa over the following decades. Notable outbreaks include Zaire (DRC) in 1995 — 315 cases, 254 deaths (81% CFR); Uganda in 2000-2001 (Sudan strain) — 425 cases, 224 deaths (53% CFR); DRC in 2007 — 264 cases, 187 deaths (71% CFR); and Uganda in 2007 — 149 cases, 37 deaths (25% CFR, Bundibugyo strain, its first identified outbreak).
+
+The 2013-2016 West Africa Outbreak: By far the largest and most devastating Ebola outbreak in history began in Guinea in December 2013, spreading to Liberia and Sierra Leone and eventually reaching Nigeria, Senegal, Mali, Spain, the United Kingdom, and the United States. The outbreak was declared a PHEIC by WHO on August 8, 2014. By the time it was declared over in June 2016, it had caused 28,616 confirmed, probable, and suspected cases and 11,310 deaths — more cases and deaths than all previous Ebola outbreaks combined. The epidemic devastated the health systems of Guinea, Liberia, and Sierra Leone, killed hundreds of healthcare workers, and caused massive social and economic disruption. It also exposed severe weaknesses in global health security infrastructure.
+
+The 2018-2020 DRC Kivu Outbreak: The second largest Ebola outbreak in history occurred in North Kivu and Ituri provinces of the Democratic Republic of Congo, in an active conflict zone. From August 2018 to June 2020, it caused 3,481 cases and 2,299 deaths (66% CFR). The conflict environment severely hampered response efforts, with attacks on response teams and health facilities. This outbreak was the first in which the rVSV-ZEBOV (Ervebo) vaccine was deployed at scale under a ring vaccination protocol, demonstrating its effectiveness in a real-world outbreak setting.
+
+The 2021-2022 DRC Outbreaks: Multiple smaller outbreaks occurred in DRC in 2021 and 2022, including in North Kivu and Équateur provinces. These were controlled relatively quickly through established response mechanisms.
+
+The 2022 Uganda Outbreak: An outbreak of Sudan strain Ebola (for which no approved vaccine existed at the time) occurred in Uganda from September to November 2022, causing 164 cases and 55 deaths. It was the largest Sudan strain outbreak in Uganda since 2000 and prompted accelerated development and deployment of Sudan strain vaccine candidates.
+
+# Global Statistics
+
+Since its discovery in 1976, Ebola has caused approximately 35,000 confirmed, probable, and suspected cases and approximately 15,000 deaths across all outbreaks combined. The vast majority of cases and deaths have occurred in sub-Saharan Africa, particularly in the DRC (formerly Zaire), Guinea, Liberia, Sierra Leone, and Uganda. The economic impact on affected countries has been severe — the 2013-2016 West Africa outbreak caused an estimated $2.2 billion in economic losses in Guinea, Liberia, and Sierra Leone alone, devastating agricultural sectors and foreign investment.
+
+# Transmission
+
+Ebola virus is transmitted through direct contact with the blood, secretions, organs, or other bodily fluids of infected people, and with surfaces and materials (such as bedding and clothing) contaminated with these fluids. Healthcare workers have frequently been infected while treating patients with suspected or confirmed EVD through close contact without adequate personal protective equipment (PPE). Burial ceremonies in which mourners have direct contact with the body of the deceased have also played a major role in transmission.
+
+Critically, Ebola is NOT transmitted through the air (airborne transmission), water, or food. A person infected with Ebola cannot spread the disease until they develop symptoms. The virus is not contagious during the incubation period. People remain infectious as long as their blood and body fluids contain the virus — survivors can harbor the virus in immune-privileged sites such as the eye and testes for weeks to months after clinical recovery, and sexual transmission from male survivors has been documented months after recovery.
+
+The natural reservoir of Ebola virus is believed to be fruit bats of the Pteropodidae family, though this has not been definitively confirmed. Humans are thought to be infected initially through contact with infected animals (fruit bats, non-human primates, forest antelopes) — so-called spillover events — with subsequent human-to-human transmission sustaining outbreaks.
+
+# Symptoms
+
+The incubation period for Ebola virus disease ranges from 2 to 21 days, with an average of 8 to 10 days. The disease typically progresses through distinct phases.
+
+Initial Phase (Days 1-3): Sudden onset of fever (often high), severe headache, muscle pain, weakness, and fatigue. This phase is clinically indistinguishable from many other febrile illnesses including malaria and typhoid fever, which complicates early diagnosis.
+
+Gastrointestinal Phase (Days 3-7): Severe watery diarrhea, vomiting, abdominal pain, and loss of appetite. This phase causes significant fluid and electrolyte losses that contribute to shock and death if not adequately managed.
+
+Hemorrhagic Phase (in severe cases, Days 5-7 onwards): Despite the historical name "hemorrhagic fever," overt bleeding occurs in only a minority of patients (approximately 18 percent). When present, bleeding may manifest as unexplained bruising, blood in stool or vomit, bleeding from injection sites, and in severe cases, bleeding from multiple sites simultaneously. Internal bleeding and capillary leak syndrome contribute to shock.
+
+Terminal Phase (in fatal cases): Multi-organ failure, septic shock, massive fluid losses, and death, typically occurring between days 6 and 16 of illness onset.
+
+Survivors: Patients who survive begin to improve around day 7-14. Recovery is slow, and survivors may experience significant complications including uveitis (eye inflammation), arthritis, hair loss, hearing loss, fatigue, and neurological sequelae — a collection of symptoms now recognized as Post-Ebola Syndrome.
+
+# Case Fatality Rate
+
+The case fatality rate of Ebola varies considerably by virus species, outbreak, and quality of supportive care. Zaire ebolavirus has the highest CFR, historically ranging from 25 to 90 percent with an average of approximately 50 percent. Sudan ebolavirus typically causes CFR of 40 to 65 percent. Bundibugyo ebolavirus has a lower CFR of approximately 25 to 36 percent. With aggressive supportive care including fluid resuscitation, electrolyte replacement, and treatment of secondary infections, CFR can be substantially reduced. In the 2018-2020 DRC Kivu outbreak, CFR among patients treated at Ebola Treatment Units was significantly lower than among those who died in the community.
+
+# Diagnosis
+
+Ebola is diagnosed through laboratory testing. Samples from patients are an extreme biohazard risk and testing must be conducted under maximum containment conditions. Diagnostic methods include reverse transcription polymerase chain reaction (RT-PCR), which detects viral RNA and is the most sensitive and specific method; antigen-capture enzyme-linked immunosorbent assay (ELISA); virus isolation by cell culture; and electron microscopy for visualization of the characteristic filamentous viral particles. Rapid antigen detection tests have been developed and deployed in outbreak settings to enable faster diagnosis in resource-limited environments.
+
+# Treatment
+
+Historically, there were no specific treatments or vaccines for Ebola, and management consisted of supportive care — maintaining fluid and electrolyte balance, maintaining oxygen status and blood pressure, treating secondary infections, and managing complications. Two monoclonal antibody therapies have now been approved for treatment of Zaire ebolavirus infection: REGN-EB3 (Inmazeb, a combination of three monoclonal antibodies) and mAb114 (Ebanga, a single monoclonal antibody), both approved by the US FDA in 2020 based on trial data from the 2018-2020 DRC outbreak showing significantly improved survival compared to supportive care alone.
+
+# Vaccines
+
+The rVSV-ZEBOV vaccine (Ervebo, manufactured by Merck), approved by the European Medicines Agency and FDA in 2019, is a live attenuated recombinant vaccine that has demonstrated approximately 97-100 percent efficacy in preventing Zaire ebolavirus infection in ring vaccination trials. It has been deployed extensively in DRC and other African countries. A two-dose heterologous regimen (Ad26.ZEBOV/MVA-BN-Filo, Zabdeno/Mvabea) developed by Janssen is also approved and used in outbreak settings for longer-term protection. However, neither vaccine is effective against Sudan ebolavirus, highlighting the need for pan-ebolavirus vaccines.
+
+# Prevention and WHO Guidelines
+
+WHO prevention strategies for Ebola focus on: community engagement and education to reduce high-risk behaviors (particularly unsafe burial practices); ring vaccination of contacts and contacts of contacts of confirmed cases; early identification and isolation of suspected cases; robust contact tracing; strict infection prevention and control (IPC) measures in health facilities; safe and dignified burials; and psychosocial support for patients, survivors, and communities. Strengthening health system capacity in endemic countries for early detection and rapid response is a long-term prevention priority.
+
+# Healthcare System Impact
+Outbreaks of this disease place enormous strain on healthcare systems, particularly in low-resource settings. Healthcare workers face significant occupational risk during outbreaks and require adequate personal protective equipment, training, and psychosocial support. Outbreaks divert critical healthcare resources from routine services, leading to indirect mortality from untreated non-outbreak conditions. Strengthening health system resilience — including robust surveillance infrastructure, trained rapid response teams, stockpiles of essential supplies, and community trust in health authorities — is fundamental to effective outbreak preparedness and response. International surge capacity support through mechanisms such as the WHO Global Outbreak Alert and Response Network (GOARN) plays a critical role in supporting affected countries during major outbreaks.
+
+# Equity and Social Determinants
+The burden of this disease falls disproportionately on the world's most vulnerable populations — those living in poverty, conflict zones, areas with inadequate infrastructure, and communities that have experienced historical marginalization and discrimination. Social determinants including poverty, food insecurity, lack of access to clean water and sanitation, crowded living conditions, limited healthcare access, and educational inequities all amplify disease risk and impair the ability of individuals and communities to protect themselves and access treatment. Meaningful, sustainable progress requires not only biomedical interventions but also systemic action on these social, economic, and political determinants of health. Community engagement — treating affected communities as partners rather than objects of interventions — is essential for building the trust required for effective outbreak response. Stigma associated with infectious disease outbreaks can deter people from seeking care and reporting illness, amplifying transmission and mortality.
+
+# Research and Innovation
+Ongoing research continues to advance understanding of this disease and improve tools for prevention, diagnosis, and treatment. Areas of active investigation include development of next-generation vaccines with improved efficacy, durability, and breadth of protection; novel therapeutic agents targeting key steps in the disease process; improved rapid diagnostic tools for use at the point of care in resource-limited settings; genomic epidemiology tools for real-time outbreak tracking and source attribution; mathematical models for predicting outbreak dynamics and optimizing response strategies; implementation science to understand how to most effectively deliver existing interventions in real-world settings; and social science research to understand community perceptions, behaviors, and responses to outbreaks. International research collaboration — exemplified by the extraordinary scientific response to COVID-19 — has demonstrated the power of global scientific solidarity in accelerating the development of life-saving tools. Ensuring that the benefits of research are equitably shared with the populations most affected by these diseases is both an ethical imperative and a practical necessity for effective global health security.
+
+# Global Health Security
+This disease illustrates the critical importance of global health security — the capacity of countries to prevent, detect, and respond to public health threats of international concern. The International Health Regulations (IHR 2005) provide the legal framework for global health security, requiring countries to develop core public health capacities and to report events that may constitute public health emergencies of international concern. However, many low-income countries lack the resources to fully implement the IHR, creating gaps in the global health security architecture that increase the risk of international spread of outbreaks. The WHO's Joint External Evaluation (JEE) tool allows countries to assess their health security capacities and identify areas for improvement. Sustained international financing for health system strengthening in low-income countries — including infectious disease surveillance, laboratory capacity, health workforce, emergency operations centers, and risk communication — is essential for building the global health security architecture needed to protect all countries from outbreak threats.
