@@ -3,11 +3,11 @@ uvicorn[standard]==0.30.6
 httpx==0.27.0
 python-multipart==0.0.9
 
-# LlamaIndex
+# LlamaIndex — versions pinned to be mutually compatible
 llama-index-core>=0.14.21,<0.15.0
-llama-index-llms-mistralai>=0.3.0
+llama-index-llms-mistralai>=0.8.0          # 0.8.0+ supports llama-index-core 0.14.x
 llama-index-embeddings-huggingface>=0.3.0
-mistralai
+mistralai>=1.5.0
 
 # ML / Embeddings
 sentence-transformers
